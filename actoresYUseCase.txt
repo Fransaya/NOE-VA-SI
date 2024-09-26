@@ -1,0 +1,21 @@
+ACTORES
+
+encargado de atencion
+
+encargado de consulta
+
+encargado de control
+
+dueño
+
+CASO DE USO
+- registro de cliente
+- calificacion de cliente
+- consulta de disponibilidad de vajillas
+- registrar devolucion de vajilla
+- realizar control de las vajillas
+- cobro de saldo
+
+
+
+
