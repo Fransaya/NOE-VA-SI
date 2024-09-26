@@ -40,12 +40,20 @@ dueño
 
 
 CASO DE USO
+
 - registro de cliente
 - calificacion de cliente
 - consulta de disponibilidad de vajillas
 - registrar devolucion de vajilla
 - realizar control de las vajillas
 - cobro de saldo
+- registrar vajilla
+- registrar pedido
+- modificar estado pedido { en preparacion, preparado, entregado}
+- modificar pedido { pendiente, finalizado , pagado }
+- consultar forma de pago
+- registrar cobro
+- consultar pedidos disponibles
 
 
 
