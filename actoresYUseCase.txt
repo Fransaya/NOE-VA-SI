@@ -50,11 +50,13 @@ CASO DE USO
 - registrar vajilla
 - registrar pedido
 - modificar estado pedido { en preparacion, preparado, entregado}
-- modificar pedido { pendiente, finalizado , pagado }
+- modificar pedido 
 - consultar forma de pago
 - registrar cobro
 - consultar pedidos disponibles
-
+-Consultar cliente del pedido
+-consultar clientes
+-modificar cliente
 
 
 
