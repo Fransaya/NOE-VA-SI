@@ -1,0 +1,9 @@
+Consultar Tipos de Vajilla, Precio de Vajilla
+ Consultar disponibilidad de Vajilla
+Registrar pedido
+Registrar Cliente / Calificar CLIENTE / Consultar Cliente
+Consultar Formas de Pago / Registrar tipo de Pago / Registrar Cobro }
+Registrar nuevo estado Pedido
+Consultar Pedidos Disponibles
+
+Registrar Pieza / Consultar Pieza / Registrar Nuevo Estado de Pieza /
