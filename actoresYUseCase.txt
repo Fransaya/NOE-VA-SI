@@ -43,7 +43,7 @@ CASO DE USO
 
 - registro de cliente
 - calificacion de cliente
-- consulta de disponibilidad de vajillas
+- consulta de disponibilidad de vajillas y precio
 - registrar devolucion de vajilla
 - realizar control de las vajillas
 - cobro de saldo
@@ -52,11 +52,14 @@ CASO DE USO
 - modificar estado pedido { en preparacion, preparado, entregado}
 - modificar pedido 
 - consultar forma de pago
-- registrar cobro
+- registrar cobro de seña
+- registrar cobro de saldo
 - consultar pedidos disponibles
 -Consultar cliente del pedido
 -consultar clientes
 -modificar cliente
+- calcular descuento
+- aplicar descuento
 
 
 
