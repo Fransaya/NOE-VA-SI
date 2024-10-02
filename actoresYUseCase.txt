@@ -32,8 +32,6 @@ ACTORES
 
 encargado de atencion
 
-encargado de consulta
-
 encargado de control
 
 dueño
